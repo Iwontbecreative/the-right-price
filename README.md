@@ -1,2 +1,3 @@
-# the-right-price
-A model trained on TheFork which predicts what the price of menu items should be
+# The right price
+
+We trained a model on [Lafourchette](https://www.lafourchette.com/) restaurant data that predicts the price of an item based on its description.
